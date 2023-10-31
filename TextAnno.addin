@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>Text Retriever</Name>
+		<Assembly>TextAnno.dll</Assembly>
+		<AddInId>EAC3014C-718E-41B8-A7F5-CACA26F46F24</AddInId>
+		<FullClassName>TextAnno.RetrieveText</FullClassName>
+		<Text>Retrieve All Annotations</Text>
+		<Description>Gets all Text into a Notepad file</Description>
+		<VendorId>Victoria</VendorId>
+		<VendorDescription>@BIMMentor</VendorDescription>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+	</AddIn>
+</RevitAddIns>
